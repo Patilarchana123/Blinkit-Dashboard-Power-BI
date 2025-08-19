@@ -29,7 +29,7 @@ This project presents an **interactive Power BI dashboard** analyzing sales data
 
 ## 🛠️ Tools & Technologies  
 - **Power BI** → Data modeling, visualization, and dashboard building.  
-- **Excel/CSV** → Data source (sales and product dataset).  
+- **Excel/CSV** → Data source (Blinkit Grocery Data).  
 
 ---
 
@@ -44,11 +44,8 @@ This project presents an **interactive Power BI dashboard** analyzing sales data
 
 ## 📷 Dashboard Preview  
  <img width="604" height="325" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/46745b58-bc02-4433-b63a-cf0807639ae7" />
-
-
 ---
 
 ## 📌 Conclusion  
 This dashboard provides **comprehensive sales insights** that can help Blinkit optimize product strategy, manage outlet performance, and target high-potential regions effectively.  
-
 ---
